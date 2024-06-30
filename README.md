@@ -10,6 +10,7 @@ This repository contains a collection of small React applications. Each applicat
 - Features:
   - Allows users to input a name.
   - Uses an API to predict the age based on the entered name.
+- [Live Demo](https://age-predictor-by-name.netlify.app/)
 
 ### 2. Counter App
 
@@ -17,6 +18,7 @@ This repository contains a collection of small React applications. Each applicat
 - Features:
   - Increment and decrement buttons to change the counter value.
   - Reset button to reset the counter to zero.
+- [Live Demo](https://mycounter-app-using-react.netlify.app/)
 
 ### 3. Todo App
 
@@ -25,39 +27,33 @@ This repository contains a collection of small React applications. Each applicat
   - Add new todos.
   - Mark todos as completed.
   - Delete todos.
+- [Live Demo](https://todo-react-website.netlify.app/)
 
 ### 4. Excuse Generator App
 
 - Description: An app that generates random excuses fetched from an API.
 - Features:
   - Clicking a button fetches a random excuse from an external API.
+- [Live Demo](https://excuse-generator-app.netlify.app/)
 
 ## Getting Started
 
 1. Clone this repository to your local machine.
 2. Navigate to the directory of the project you want to explore.
-3. Follow the specific instructions in each project's README file
+3. Follow the specific instructions in each project's README file.
 
 ### Running Projects
 
 For each project, you can follow these general steps to run it:
 
 1. Navigate to the project directory.
-2. Install dependencies using npm or yarn:
+2. Install dependencies using npm:
     ```bash
     npm install
-    ```
-    or
-    ```bash
-    yarn install
     ```
 3. Start the development server:
     ```bash
     npm start
-    ```
-    or
-    ```bash
-    yarn start
     ```
 
 4. Open your web browser and go to `http://localhost:3000` (or the specified port) to view the app.
